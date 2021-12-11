@@ -1,0 +1,59 @@
+body{
+    background-color: #FFFCDC;
+}
+
+.list {
+    list-style-position: inside;
+    
+}
+
+#nav-1 {
+    text-align: center;
+    color: #FFBC97;
+}
+
+#main-heading {
+    text-align: center;
+    color: #FFE300;
+    font-size: 42px;
+    font-family: 'Lobster', cursive;
+
+}
+
+#main-page-article {
+    text-align: center;
+    font-size: 20px;
+    color: #692d0d;
+}
+
+.page-heading {
+    color: #D47AE8;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+}
+
+#nav-1{
+    background-color: #FF7800;
+    font-size: 25px;
+}
+
+#plak-list {
+    text-align: center;
+}
+
+.alt-baslik {
+    color: #FF7800;
+    font-size: 35px;
+    font-family: 'Lobster', cursive;
+}
+
+.text {
+    font-size: 18px;
+    color: #064663;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+}
+
+#contact {
+    color: #064663;
+}
